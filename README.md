@@ -8,7 +8,9 @@
 
 ![Aran GitHub stats](https://github-readme-stats.vercel.app/api?username=AranPrado&show_icons=true&theme=merko)
 
-[![wakatime](https://wakatime.com/badge/user/57b18355-951e-4717-828c-85840f6d39e3.svg?style=for-the-badge)](https://wakatime.com/@waka_ed00e845-59f6-46e9-9e6b-eb5beb2d19bb)
+[![wakatime](https://wakatime.com/badge/user/57b18355-951e-4717-828c-85840f6d39e3.svg?style=for-the-badge)](https://wakatime.com/@57b18355-951e-4717-828c-85840f6d39e3)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AranPrado)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias que eu uso/estudo
 
@@ -18,7 +20,6 @@
     <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
     <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
     <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img align="center" alt="react-native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     
 </div>
 
