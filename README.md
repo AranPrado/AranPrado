@@ -8,7 +8,7 @@
 
 ![Aran GitHub stats](https://github-readme-stats.vercel.app/api?username=AranPrado&show_icons=true&theme=merko)
 
-[![wakatime](https://wakatime.com/badge/user/57b18355-951e-4717-828c-85840f6d39e3.svg?style=for-the-badge)](https://wakatime.com/@57b18355-951e-4717-828c-85840f6d39e3)
+[![wakatime](https://wakatime.com/badge/user/ddc78506-9d8d-4100-b441-bb2910659ada.svg)](https://wakatime.com/badge/user/ddc78506-9d8d-4100-b441-bb2910659ada.svg)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AranPrado)](https://github.com/anuraghazra/github-readme-stats)
 
