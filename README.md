@@ -8,9 +8,9 @@
 
 ![Aran GitHub stats](https://github-readme-stats.vercel.app/api?username=AranPrado&show_icons=true&theme=merko)
 
+[![wakatime](https://wakatime.com/badge/user/57b18355-951e-4717-828c-85840f6d39e3.svg?style=for-the-badge)](https://wakatime.com/@waka_ed00e845-59f6-46e9-9e6b-eb5beb2d19bb)
 
 ### Tecnologias que eu uso/estudo
-
 
 <div style="display: inline_block"> <br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -21,6 +21,7 @@
     <img align="center" alt="react-native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     
 </div>
+
 
 
 👨‍💻Estudante apaixonado por desenvolvimento front-end.👨‍💻
