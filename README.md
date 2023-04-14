@@ -8,10 +8,6 @@
 
 ![Aran GitHub stats](https://github-readme-stats.vercel.app/api?username=AranPrado&show_icons=true&theme=merko)
 
-[![wakatime](https://wakatime.com/badge/user/ddc78506-9d8d-4100-b441-bb2910659ada.svg)](https://wakatime.com/badge/user/ddc78506-9d8d-4100-b441-bb2910659ada.svg)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AranPrado)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Tecnologias que eu uso/estudo
 
 <div style="display: inline_block"> <br/>
@@ -22,6 +18,8 @@
     <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     
 </div>
+
+[![wakatime](https://wakatime.com/badge/user/ddc78506-9d8d-4100-b441-bb2910659ada.svg)](https://wakatime.com/badge/user/ddc78506-9d8d-4100-b441-bb2910659ada.svg)
 
 
 
