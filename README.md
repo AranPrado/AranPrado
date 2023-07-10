@@ -33,4 +33,4 @@
 
 
 
-👨‍💻Estudante apaixonado por desenvolvimento front-end.👨‍💻
+👨‍💻Estudante de desenvolvimento web.👨‍💻
