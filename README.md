@@ -11,12 +11,12 @@
 ### Tecnologias que eu uso/estudo
 
 <div style="display: inline_block"> <br/>
-    <img src="https://skillicons.dev/icons?i=angular,cs,dotnet,git" />
+    <img src="https://skillicons.dev/icons?i=angular,cs,dotnet,git,react,docker,kafka,prisma" />
    
     
 </div>
 <div style="display: inline_block;">
-    <img src="https://skillicons.dev/icons?i=linux,mysql,js,figma" />
+    <img src="https://skillicons.dev/icons?i=linux,mysql,js,figma,next,nest,jest,postgres" />
 </div>  
 
 
